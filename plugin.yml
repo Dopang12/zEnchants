@@ -1,0 +1,8 @@
+name: zeddsenchants
+version: 1
+author: ZeddCC
+main: zeddsenchants.Main
+
+commands:
+  zenchant:
+     description: kappa
